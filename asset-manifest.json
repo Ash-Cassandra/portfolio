@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//ash-cassandra.github.io/portfolio/static/css/main.73b46092.css",
-    "main.js": "//ash-cassandra.github.io/portfolio/static/js/main.c1753503.js",
-    "static/js/787.1ed0c42c.chunk.js": "//ash-cassandra.github.io/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/img_fond.webp": "//ash-cassandra.github.io/portfolio/static/media/img_fond.bd18149d27bdb70bcf76.webp",
-    "static/media/my_picture.jpg": "//ash-cassandra.github.io/portfolio/static/media/my_picture.11074b991f3927c15ab0.jpg",
-    "static/media/React-icon.png": "//ash-cassandra.github.io/portfolio/static/media/React-icon.8a6fc0a24a800d1e0f4a.png",
-    "static/media/pixlr.png": "//ash-cassandra.github.io/portfolio/static/media/pixlr.20decc903936006bc4a8.png",
-    "static/media/css-3.png": "//ash-cassandra.github.io/portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
-    "static/media/canva_logo.png": "//ash-cassandra.github.io/portfolio/static/media/canva_logo.a323807ac248d8212c6e.png",
-    "static/media/html-5.png": "//ash-cassandra.github.io/portfolio/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
-    "static/media/js.png": "//ash-cassandra.github.io/portfolio/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "//ash-cassandra.github.io/portfolio/index.html",
-    "main.73b46092.css.map": "//ash-cassandra.github.io/portfolio/static/css/main.73b46092.css.map",
-    "main.c1753503.js.map": "//ash-cassandra.github.io/portfolio/static/js/main.c1753503.js.map",
-    "787.1ed0c42c.chunk.js.map": "//ash-cassandra.github.io/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.eaac018e.css",
+    "main.js": "/portfolio/static/js/main.0cf4a11c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/img_fond.webp": "/portfolio/static/media/img_fond.bd18149d27bdb70bcf76.webp",
+    "static/media/my_picture.jpg": "/portfolio/static/media/my_picture.11074b991f3927c15ab0.jpg",
+    "static/media/React-icon.png": "/portfolio/static/media/React-icon.8a6fc0a24a800d1e0f4a.png",
+    "static/media/pixlr.png": "/portfolio/static/media/pixlr.20decc903936006bc4a8.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/canva_logo.png": "/portfolio/static/media/canva_logo.a323807ac248d8212c6e.png",
+    "static/media/html-5.png": "/portfolio/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portfolio/index.html",
+    "main.eaac018e.css.map": "/portfolio/static/css/main.eaac018e.css.map",
+    "main.0cf4a11c.js.map": "/portfolio/static/js/main.0cf4a11c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.73b46092.css",
-    "static/js/main.c1753503.js"
+    "static/css/main.eaac018e.css",
+    "static/js/main.0cf4a11c.js"
   ]
 }
