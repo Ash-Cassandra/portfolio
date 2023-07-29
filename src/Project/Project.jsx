@@ -6,7 +6,7 @@ import DataContext from "../datacontext"
     const [item, setItem] = useState([])
 
    useEffect(() => {
-      fetch("project.json")
+      fetch("/project.json")
           .then(data => {
             data.json().then(projects => {
               setItem(projects);
