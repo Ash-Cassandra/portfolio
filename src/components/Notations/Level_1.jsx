@@ -3,7 +3,7 @@ import './Notation.css'
 
 function Level1 () {
     return (
-    <div>
+    <div className='notation'>
         <div className='level_1'></div>
     </div>
 )}

@@ -1,3 +1,8 @@
+.notation {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
 .level_1 {
     width: 10px; 
     height: 15px; 
