@@ -30,58 +30,49 @@ function ModalSkills() {
           <figcaption className='skillsTitle'>CSS</figcaption>
             <img src={cssLogo} alt="logo css" />
               <div className='notation'>
-                <div className='level_1'></div>
-                <div className='level_2'></div>
-                <div className='level_3'></div>
+                <Level3 />
               </div>
         </figure>
           <figure className='skillsCard'>
             <figcaption className='skillsTitle'>JavaScript</figcaption>
               <img src={jsLogo} alt="logo javascript" />
                 <div className='notation'>
-                  <div className='level_1'></div>
-                  <div className='level_2'></div>
+                  <Level2 />
                 </div>
           </figure>
         <figure className='skillsCard'>
           <figcaption className='skillsTitle'>React JS</figcaption>
             <img src={reactJsLogo} alt="logo react js" />
               <div className='notation'>
-                <div className='level_1'></div>
-                <div className='level_2'></div>
+                <Level2 />
               </div>
         </figure>
         <figure className='skillsCard'>
           <figcaption className='skillsTitle'>Express JS</figcaption>
             <img className='skillsImgNode' src={nodeExpressLogo} alt="logo node js" />
               <div className='notation'>
-                <div className='level_1'></div>
-                <div className='level_2'></div>
+                <Level2 />
               </div>
         </figure>
         <figure className='skillsCard'>
           <figcaption className='skillsTitle'>Pixlr</figcaption>
             <img src={pixlrLogo} alt="logo pixlr" />
             <div className='notation'>
-                <div className='level_1'></div>
-                <div className='level_2'></div>
+                <Level3 />
               </div>
         </figure>
         <figure className='skillsCard'>
           <figcaption className='skillsTitle'>Canva Pro</figcaption>
           <img src={canvaLogo} alt="logo canva" />
             <div className='notation'>
-                <div className='level_1'></div>
-                <div className='level_2'></div>
-                <div className='level_3'></div>
+                <Level3 />
               </div>
         </figure>
         <figure className='skillsCard'>
           <figcaption className='skillsTitle'>Adobe Express</figcaption>
             <img src={adobeExpressLogo} alt="logo adobe express" />
               <div className='notation'>
-                <div className='level_1'></div>
-                <div className='level_2'></div>
+                <Level2 />
               </div>        </figure>
         </div>
     </div>
