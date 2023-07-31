@@ -7,6 +7,9 @@ import adobeExpressLogo from '../../assets/adobe_express.png';
 import canvaLogo from '../../assets/canva_logo.png';
 import pixlrLogo from '../../assets/pixlr.png';
 import nodeExpressLogo from '../../assets/node_express.png';
+import Level1 from '../Notations/Level_1';
+import Level2 from '../Notations/Level_2';
+import Level3 from '../Notations/Level_3';
 import './Modal.css';     
 
 function ModalSkills() {
@@ -20,9 +23,7 @@ function ModalSkills() {
               <figcaption className='skillsTitle'>HTML</figcaption>
                 <img src={htmlLogo} alt="logo HTML" />
                   <div className='notation'>
-                    <div className='level_1'></div>
-                    <div className='level_2'></div>
-                    <div className='level_3'></div>
+                    <Level3 />
                   </div>
             </figure>
         <figure className='skillsCard'>
