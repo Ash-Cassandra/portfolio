@@ -1,4 +1,4 @@
-import myPicture from '../../assets/my_picture.jpg';
+import myPicture from '../../assets/my_picture.webp';
 import './Modal.css';
 
 function ModalAboutMe() {
